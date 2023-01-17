@@ -1,7 +1,7 @@
 # ic-02
 ic-02 - Intro to HTML and CSS
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
+(GitHub Pages)[insert your hyperlink here]
 
 ## Purpose
 
@@ -13,7 +13,7 @@ Clone this repo and work locally. Be sure to push the final version of your code
 
 1. Resources to support this assignment are provided below in the Resources section.  
 
-1. Create a GitHub Page for your repo and add the link to it above where you see `[insert your clickable hyperlink here]`. 
+1. Create a GitHub Page for your repo and add the link to it above where you see "insert your hyperlink here". When you do this you should replace all text between the "[]", but keep the "[]" -- this will result in a clickable hyperlink in the browser.  
 
 1. Open the index.html file included in your repo. Please do the following: 
    - Title your webpage "ic-02". 
@@ -22,17 +22,18 @@ Clone this repo and work locally. Be sure to push the final version of your code
    - Add a div with the id "div1" and the class "container".
    - Add a paragraph inside of div1. Give the paragraph the id "p1". Fill in your paragraph with this text: "This is the DOM for this webpage:".  
    - Add a another div to your webpage. This div should **not** be a child of div1. Give this div the id "div2" and class "container".
-   - Add an [svg rect](https://www.w3schools.com/html/html5_svg.asp) inside of div2. Make it any color you want except for black or white.
+   - Add an [svg rect](https://www.w3schools.com/html/html5_svg.asp) inside of div2. 
 
-1. After completing the previous step, draw the DOM for your webpage. Add a png or jpeg of your drawing under p1 inside of div1.  
+1. After completing the previous step, draw the DOM for your webpage. Add a png or jpeg of your drawing under p1 inside of div1 (you will need to use an <img> tag).  
 
 1. Create an *external* stylesheet for your webpage. Name it style.css and add the code nescessary to reference it in your index.html file. Using this stylesheet please:
    - Set the font of your webpage to Arial. 
    - Center "Intro to HTML and CSS" and your name. 
    - Give any objects with the class "container" a black border. 
    - Give the element with id "p1" dark green font.
+   - Make your rectangle any color you want except for black or white.
 
-1. Add a centered header to the bottom of your page. The header should say "Acknowledgements". Under this header, add a div. Inside of this div add a list of the resources you used to complete this assignment.
+1. Add a centered header to the bottom of your webpage page. The header should say "Acknowledgements". Under this header, add a div. Inside of this div add an unordered list (<ul>) of the resources you used to complete this assignment.
 
 ## Resources 
 
